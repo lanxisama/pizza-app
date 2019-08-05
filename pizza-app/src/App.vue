@@ -38,9 +38,9 @@ export default {
 </script>
 
 <style>
- 
+/*  
 #table{
   margin:20px auto;
   padding:10px 10px 10px 10px;
-}
+} */
 </style>
